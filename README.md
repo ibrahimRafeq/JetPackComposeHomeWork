@@ -1,4 +1,4 @@
-![السلة الفارغة](https://github.com/user-attachments/assets/7faa9144-a903-4669-9904-a05011401495)
-![الشاشة الترحيبية](https://github.com/user-attachments/assets/22064262-37e2-491b-b5be-2f9c5d7b4adc)
-![سلة المشتريات](https://github.com/user-attachments/assets/c3976ccf-74cb-4c8f-904c-d05506142682)
-![شاشة البحث](https://github.com/user-attachments/assets/33d8198e-a79d-449f-a246-82676390f8d1)
+![السلة الفارغة](https://github.com/user-attachments/assets/107b19d0-f3e4-4af8-a6d1-894bc58dcd42)
+![الشاشة الترحيبية](https://github.com/user-attachments/assets/7437bc42-6d32-42ed-8711-1af8b02c0bc3)
+![سلة المشتريات](https://github.com/user-attachments/assets/3537d1d9-4e36-411b-8954-f3c188c252a3)
+![شاشة البحث](https://github.com/user-attachments/assets/7edf8746-b37d-4a93-bf46-abfc8e4cc76e)
